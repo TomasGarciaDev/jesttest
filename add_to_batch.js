@@ -4,8 +4,8 @@ const addToBatch = (array, number) => {
   } else {
     console.log(array);
   }
-}
+};
 
-addToBatch([1], 3); 
-addToBatch([1, 2, 3], 4); 
-addToBatch([1, 2, 3, 4, 5, 6], 7); 
+addToBatch([1], 3);
+addToBatch([1, 2, 3], 4);
+addToBatch([1, 2, 3, 4, 5, 6], 7);
